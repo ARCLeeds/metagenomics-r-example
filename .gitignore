@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+data/*
+!data/.gitkeep
+figures/*
+!figures/.gitkeep
