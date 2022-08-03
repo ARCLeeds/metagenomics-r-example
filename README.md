@@ -3,4 +3,4 @@
 
 This repository contains examples on using R for metagenomics analysis using both base R and the tidyverse.
 
-It uses an example data set from [Schmidt et al. 2019.](https://doi.org/10.7554/eLife.42693).
+It uses an example data set from [Schmidt et al. 2019.](https://doi.org/10.7554/eLife.42693) and an anonymised example drug data.
