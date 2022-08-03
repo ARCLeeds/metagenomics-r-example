@@ -12,6 +12,19 @@ if(!require(vegan)) {
   install.packages(c("vegan"))
 }
 
+if(!require(xlsx)) {
+  install.packages("xlsx")
+}
+
+if(!require(cowplot)) {
+  install.packages("cowplot")
+}
+
+if(!require(ggpubr)) {
+  install.packages("ggpubr")
+}
+
+
 library(readr)
 library(dplyr)
 library(readxl)
